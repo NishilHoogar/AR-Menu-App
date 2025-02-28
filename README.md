@@ -36,13 +36,13 @@ In an era driven by immersive digital experiences, the **AR Menu App** seamlessl
 
 ## 📌 Flow Diagram
 
-![Flow Diagram](images/menu-app.png) 
+![Flow Diagram](images/pic1.png) 
 
 ---
 
 ## 📸 Live Preview
 
-![App in Action]("images/Picture2-menu-app.png") 
+![App in Action]("images/pic2.png") 
 
 ---
 

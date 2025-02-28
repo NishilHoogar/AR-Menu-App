@@ -42,7 +42,7 @@ In an era driven by immersive digital experiences, the **AR Menu App** seamlessl
 
 ## 📸 Live Preview
 
-![App in Action]("images/pic2.png") 
+![App in Action](images/pic2.png) 
 
 ---
 
